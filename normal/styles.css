@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	font-family: Comic Sans MS;
+}
+span {
+	color: white;
+	font-size: 200px;	
+}
+
+.clock {
+	text-align: center;
+	padding-top: 300px;
+}
+
+#break {
+	padding-left: 60px;
+}
