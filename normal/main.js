@@ -28,11 +28,3 @@ $(document).ready(function() {
 
 
 
-/*
-
-  	// Convert an hours component of "0" to "12"
-  	currentHours = ( currentHours == 0 ) ? 12 : currentHours;
-
-  	// Compose the string for display
-  	var currentTimeString = currentHours + ":" + currentMinutes + ":" + currentSeconds + " " + timeOfDay;
-  	*/
